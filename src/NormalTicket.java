@@ -16,7 +16,6 @@ public class normalTicket extends typeTicket {
         super(passenger, connection);
         setSeat(seat);
         this.refund = refund;
-
     }
 
     public int getBaggage() {
@@ -34,6 +33,5 @@ public class normalTicket extends typeTicket {
     public void setRefund(float refund) {
         this.refund = refund;
     }
-
 
 }

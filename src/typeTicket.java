@@ -1,9 +1,10 @@
+
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 /**
  * @author ALUNO
  */
@@ -41,6 +42,5 @@ public class typeTicket {
     public void setConnection(boolean connection) {
         this.connection = connection;
     }
-
 
 }

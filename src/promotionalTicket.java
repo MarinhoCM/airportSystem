@@ -8,12 +8,12 @@
  *
  * @author ALUNO
  */
-public class promotionalTicket extends typeTicket{
-    
+public class promotionalTicket extends typeTicket {
+
     private boolean go_back = true;
-    
+
     public promotionalTicket(int passenger, boolean connection) {
         super(passenger, connection);
     }
-    
+
 }
